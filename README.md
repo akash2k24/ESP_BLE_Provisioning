@@ -16,5 +16,3 @@ Prerequisites
 -->ESP BLE Provisioning App:
 * Google Play Store
 * Apple App Store
-
-CODE:
